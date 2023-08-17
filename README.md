@@ -1,2 +1,2 @@
-# github.portfolioo.io
+# github.portfolio.io
 portfolio.html
